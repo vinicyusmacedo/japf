@@ -1,0 +1,12 @@
+[
+	{
+		"function": "postSomething",
+		"prettyName": "Post Something",
+		"endpoint": "/post-something"
+	},
+	{
+		"function": "echoServer",
+		"prettyName": "Echo!",
+		"endpoint": "/echo"
+	}
+]

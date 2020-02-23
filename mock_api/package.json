@@ -1,0 +1,15 @@
+{
+  "name": "mock_api",
+  "version": "0.0.0",
+  "description": "Just an API that returns something",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
