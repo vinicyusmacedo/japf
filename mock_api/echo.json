@@ -1,6 +1,9 @@
 {
 	"method": "GET",
 	"queryParams": {
-		"message": ""
+		"message": {
+			"type": "string",
+			"default": "hello"
+		}
 	}
 }

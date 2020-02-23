@@ -1,6 +1,9 @@
 {
 	"method": "POST",
 	"bodyParams": {
-		"message": ""
+		"message": {
+			"type": "string",
+			"default": "hello"
+		}
 	}
 }
